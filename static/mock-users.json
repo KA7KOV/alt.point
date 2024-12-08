@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "role": "admin",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "phone": "1-234-567-89",
+      "website": "admi"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "role": "user",
+      "name": "Regula",
+      "email": "user@example.co",
+      "phone": "1-234-567-89",
+      "website": "user.com"
+    },
+    {
+      "id": 3,
+      "name": "Manager User",
+      "username": "manager",
+      "email": "manager@example.com",
+      "role": "manager",
+      "phone": "1-234-567-8902",
+      "website": "manager.com"
+    }
+  ]
+}
